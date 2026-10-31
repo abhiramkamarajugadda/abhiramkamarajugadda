@@ -1,6 +1,6 @@
 # Hi, I am Abhiram Kamarajugadda
 
-Java Backend Developer at Zyllo Tech | B.Tech CSE, SRM University AP (2026)
+Java Backend Developer (Spring Boot, JPA, MySQL) | B.Tech CSE, SRM University AP (2026) | Currently interning at Zyllo Tech
 
 I build backend applications with **Java, Spring Boot, Spring Data JPA and MySQL**, and full-stack features with **JavaScript, Node.js, Express and React**.
 
